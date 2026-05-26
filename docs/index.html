@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Phishing Email Detector (Demo)</title>
+  <link rel="stylesheet" href="/phishing-email/static/styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Phishing Email Detector — Demo</h1>
+    <section class="card">
+      <h2>Test an Email</h2>
+      <form id="email-form">
+        <label for="email_text">Paste email content here:</label>
+        <textarea id="email_text" rows="10"></textarea>
+        <button type="submit">Analyze Email</button>
+      </form>
+      <div id="prediction" class="result"></div>
+    </section>
+
+    <section class="card">
+      <h2>Model Metrics (snapshot)</h2>
+      <div id="metrics">Loading metrics...</div>
+    </section>
+  </main>
+  <script src="/phishing-email/static/app.js"></script>
+</body>
+</html>
