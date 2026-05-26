@@ -1,0 +1,51 @@
+email_text,label
+"Dear user, your account has been suspended. Click here to verify your login details: http://secure-login.example.com",phishing
+"Your package is on the way. Track it here: https://tracking.example.com",legitimate
+"Update your payment information immediately or your account will be closed.",phishing
+"Don't forget about your appointment tomorrow at 2pm.",legitimate
+"Verify your password now to avoid interruption: www.verify-account.com",phishing
+"Team meeting notes and calendar invitation attached.",legitimate
+"Urgent: Your bank account requires verification.",phishing
+"Weekly newsletter from the community group.",legitimate
+"Security alert: unauthorized login attempt detected.",phishing
+"Thanks for your purchase! Your receipt is attached.",legitimate
+"Please click the link to update your billing information.",phishing
+"Your subscription renewal is confirmed.",legitimate
+"Final notice: verify your account before 24 hours.",phishing
+"Family reunion details and event schedule.",legitimate
+"Secure your account by confirming your identity.",phishing
+"Your reservation is confirmed for next Monday.",legitimate
+"We've detected unusual activity; please reset your password.",phishing
+"New message from your colleague about the project status.",legitimate
+"Lost package claim: update delivery info now.",phishing
+"Happy birthday! Enjoy a special offer from your favorite store.",legitimate
+"PayPal secure message: verify your account now.",phishing
+"Monthly statement and usage details available online.",legitimate
+"Click here to receive your refund immediately.",phishing
+"Reminder: team outing this Friday.",legitimate
+"You have won a prize! Claim the reward by clicking the link.",phishing
+"Invoices for last month are ready for review.",legitimate
+"Confirm your login to avoid account closure.",phishing
+"Notes from today's client call are attached.",legitimate
+"Alert: payment failed, update your payment method now.",phishing
+"Thank you for registering for our workshop.",legitimate
+"Important: verify your identity with our secure portal.",phishing
+"Your monthly magazine edition is ready.",legitimate
+"Account verification required to restore access.",phishing
+"Meeting agenda and action items have been shared.",legitimate
+"Payment update request: click the button to continue.",phishing
+"Your order has shipped and is expected tomorrow.",legitimate
+"Expired subscription notice: renew now to keep service.",phishing
+"Holiday greetings and latest company news.",legitimate
+"Unauthorized login attempt - verify here.",phishing
+"Project kickoff notes and backlog review.",legitimate
+"Immediate action required to confirm account details.",phishing
+"Your event registration has been successfully processed.",legitimate
+"Service alert: unusual activity, secure your account.",phishing
+"Thank you for your feedback in our survey.",legitimate
+"Confirm payment information for urgent billing support.",phishing
+"Your travel itinerary and confirmation details.",legitimate
+"Security notification: password reset requested.",phishing
+"Newsletter: new product launches and updates.",legitimate
+"Click to verify your identity and avoid suspension.",phishing
+"Invitation: join our webinar next week.",legitimate
